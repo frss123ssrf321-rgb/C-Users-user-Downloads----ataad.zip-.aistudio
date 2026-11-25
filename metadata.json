@@ -1,0 +1,6 @@
+{
+  "name": "عَتاد — ATAAD",
+  "description": "منصة الأسطول الافتراضي لتأجير وتشغيل ونقل المعدات الثقيلة في المملكة العربية السعودية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
